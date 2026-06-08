@@ -1,0 +1,236 @@
+body {
+    background-color: #0A101D;
+    color: rgb(235, 236, 237);
+}
+
+#nav-menu {
+
+    height: 50px;
+    width: 100%;
+  position: fixed;
+  border-bottom:2px solid aqua;
+
+}
+
+#nav-menu ul li {
+    list-style-type: none;
+    margin: 10px;
+    float: inline-end;
+    font-size: 20px;
+   
+    
+}
+
+#nav-menu ul li a {
+    text-decoration: none;
+    Color: rgb(233, 222, 9);
+   
+    
+
+}
+
+#nav-menu ul li a:hover {
+    text-decoration: underline;
+    color: rgb(3, 94, 117)
+     
+}
+
+#Home {
+    background-color: #0A101D;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#paragraph {
+    font-size: 20px;
+}
+
+.section1 h1 {
+    color: rgb(231, 235, 240);
+}
+
+span {
+    color: aqua
+}
+
+.section1 h2 {
+    color: rgb(100, 148, 37)
+}
+
+.section1 p {
+    color: rgb(242, 251, 244);
+    text-align: justify;
+    width: 600px;
+}
+
+.section1 p:hover {
+    color: rgb(111, 199, 17)
+}
+
+.section1 button {
+    background-color: aqua;
+    color: rgb(6, 6, 6);
+    border: none;
+    border-radius: 10px;
+
+}
+
+.section1 button:hover {
+    color: rgb(245, 82, 0);
+
+}
+
+#About {
+    background-color: rgb(11, 42, 72);
+    color: rgb(242, 251, 242);
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#para {
+    text-align: justify;
+    width: 600px;
+    margin: 100px;
+    font-size: 20px;
+
+}
+
+#About:hover {
+    color: rgb(111, 199, 17)
+}
+
+#Education {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#Education:hover {
+    color: rgb(22, 213, 89);
+}
+
+#Projects {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.work {
+    background-color: rgb(15, 8, 28);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.work:hover {
+    color: chartreuse;
+
+}
+
+#Skills {
+    background-color: #080825;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#Skills:hover {
+    color: rgb(22, 213, 89)
+}
+
+#Skills button {
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+}
+
+#Skills button:hover {
+    font-weight: bold;
+    color: rgb(232, 21, 183)
+}
+
+#Achivements {
+    background-color: rgb(13, 11, 52);
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#Achivements:hover {
+    color: chartreuse
+}
+
+#Contact {
+    background-color: #080825;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#Contact:hover {
+    color: chartreuse;
+}
+
+#Contact button {
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+}
+
+#refer {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#refer:hover {
+    color: chartreuse;
+}
+
+#table1 {
+    background-color: rgb(14, 132, 229);
+    border: none;
+    border-color: blue;
+
+}
+
+#table2 {
+    background-color: rgb(14, 132, 229);
+    border: none;
+    border-color: blue;
+
+}
+
+#sp {
+    color: rgb(15, 15, 14)
+}
